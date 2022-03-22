@@ -1,0 +1,9 @@
+server:
+  port: 8001
+  shutdown: graceful
+spring:
+  h2:
+    console:
+      enabled: true
+
+
